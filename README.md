@@ -1,7 +1,7 @@
 <!-- # 👋 Hi, I'm Kwan (Wasanta Pruttisarikorn) -->
 <!-- [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGJApvcPphtGw/profile-displaybackgroundimage-shrink_350_1400/0/1604806147369?e=1652313600&v=beta&t=1hC1K82ZMuqf0vVf2zjad8fzw40VsviePtX6hfP0PIw)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Kwan (Wasanta Pruttisarikorn)</h1>
-<h3 align="center">Fullstack Developer from Thailand who wanna make it happen in New York.</h3>
+<h3 align="center">Fullstack Developer from Thailand who want to make it happen in New York.</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kwancita&show_icons=true&theme=radical" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwancita&layout=compact" />
 
