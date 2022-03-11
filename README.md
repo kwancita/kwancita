@@ -1,3 +1,9 @@
+# 👋 Hi, I'm Kwan (Wasanta Pruttisarikorn)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwan&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, My name is Wasanta Pruttisarikorn (I go by Kwan)
 - 👀 I’m interested in building web application 
 - 🌱 I’m currently learning ruby and javaScript
